@@ -1,0 +1,6 @@
+# Memos Quick Capture — configuration
+# Copy this file to ~/.config/memos-capture.conf and fill in your values.
+
+MEMOS_URL=http://your-memos-instance:5235
+MEMOS_TOKEN=your_personal_access_token_here
+TAG=#desktop-capture
